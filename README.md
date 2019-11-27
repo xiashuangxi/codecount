@@ -5,3 +5,4 @@
 `gprbuild gant/CodeCount.GPR`
 
 # LICENSE
+[License](https://github.com/xiashuangxi/codecount/blob/master/LICENSE)
